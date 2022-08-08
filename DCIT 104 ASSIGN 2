@@ -1,0 +1,27 @@
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int v = 0;
+    int q;
+    int sum = 0;
+
+    for(int q = 1; q <= 10000 ; q++)
+        {
+        if(i % 2 == 0)
+        {
+        sum = sum + q;
+        n++;
+
+        }
+
+        }
+        int average = sum / v;
+        cout << endl << "average is " << average;
+
+
+    return 0;
+}
